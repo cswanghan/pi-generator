@@ -1,0 +1,16 @@
+#set( $symbol_pound = '#' )
+#set( $symbol_dollar = '$' )
+#set( $symbol_escape = '\' )
+<component name="libraryTable">
+  <library name="Maven: org.apache.mina:mina-core:1.1.5.bugfix-release">
+    <CLASSES>
+      <root url="jar://${symbol_dollar}MAVEN_REPOSITORY${symbol_dollar}/org/apache/mina/mina-core/1.1.5.bugfix-release/mina-core-1.1.5.bugfix-release.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://${symbol_dollar}MAVEN_REPOSITORY${symbol_dollar}/org/apache/mina/mina-core/1.1.5.bugfix-release/mina-core-1.1.5.bugfix-release-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://${symbol_dollar}MAVEN_REPOSITORY${symbol_dollar}/org/apache/mina/mina-core/1.1.5.bugfix-release/mina-core-1.1.5.bugfix-release-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

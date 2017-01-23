@@ -1,0 +1,16 @@
+#set( $symbol_pound = '#' )
+#set( $symbol_dollar = '$' )
+#set( $symbol_escape = '\' )
+<component name="libraryTable">
+  <library name="Maven: hessian:hessian:3.0.13.bugfix-release">
+    <CLASSES>
+      <root url="jar://${symbol_dollar}MAVEN_REPOSITORY${symbol_dollar}/hessian/hessian/3.0.13.bugfix-release/hessian-3.0.13.bugfix-release.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://${symbol_dollar}MAVEN_REPOSITORY${symbol_dollar}/hessian/hessian/3.0.13.bugfix-release/hessian-3.0.13.bugfix-release-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://${symbol_dollar}MAVEN_REPOSITORY${symbol_dollar}/hessian/hessian/3.0.13.bugfix-release/hessian-3.0.13.bugfix-release-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

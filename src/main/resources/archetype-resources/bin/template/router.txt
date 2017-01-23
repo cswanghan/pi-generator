@@ -1,0 +1,15 @@
+#set( $symbol_pound = '#' )
+#set( $symbol_dollar = '$' )
+#set( $symbol_escape = '\' )
+@RequestMapping(value = "${symbol_dollar}routerPath", method = RequestMethod.${symbol_dollar}routerMethod)
+public ResultJson ${symbol_dollar}routerFunction(${symbol_dollar}functionParamListWithType) throws Exception{
+	
+	${symbol_dollar}RequirementCheck
+
+	Map<String, Object> resMap = new HashMap<String, Object>();
+	resMap.put("error", null);
+	resMap.put("message", "");
+	resMap.put("data", ${symbol_dollar}routerPackage.${symbol_dollar}routerClass.${symbol_dollar}routerFunction(${symbol_dollar}functionParamList));
+			
+	return new ResultJson(response.getStatus(), resMap); 
+}

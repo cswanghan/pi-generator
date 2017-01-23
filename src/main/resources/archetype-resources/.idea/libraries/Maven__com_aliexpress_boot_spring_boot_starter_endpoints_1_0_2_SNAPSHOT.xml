@@ -1,0 +1,16 @@
+#set( $symbol_pound = '#' )
+#set( $symbol_dollar = '$' )
+#set( $symbol_escape = '\' )
+<component name="libraryTable">
+  <library name="Maven: com.aliexpress.boot:spring-boot-starter-endpoints:1.0.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://${symbol_dollar}MAVEN_REPOSITORY${symbol_dollar}/com/aliexpress/boot/spring-boot-starter-endpoints/1.0.2-SNAPSHOT/spring-boot-starter-endpoints-1.0.2-20160625.030515-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://${symbol_dollar}MAVEN_REPOSITORY${symbol_dollar}/com/aliexpress/boot/spring-boot-starter-endpoints/1.0.2-SNAPSHOT/spring-boot-starter-endpoints-1.0.2-20160625.030515-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://${symbol_dollar}MAVEN_REPOSITORY${symbol_dollar}/com/aliexpress/boot/spring-boot-starter-endpoints/1.0.2-SNAPSHOT/spring-boot-starter-endpoints-1.0.2-20160625.030515-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

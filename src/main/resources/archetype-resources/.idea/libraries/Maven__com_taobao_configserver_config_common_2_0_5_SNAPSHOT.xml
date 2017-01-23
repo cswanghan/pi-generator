@@ -1,0 +1,16 @@
+#set( $symbol_pound = '#' )
+#set( $symbol_dollar = '$' )
+#set( $symbol_escape = '\' )
+<component name="libraryTable">
+  <library name="Maven: com.taobao.configserver:config-common:2.0.5-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://${symbol_dollar}MAVEN_REPOSITORY${symbol_dollar}/com/taobao/configserver/config-common/2.0.5-SNAPSHOT/config-common-2.0.5-20150511.085211-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://${symbol_dollar}MAVEN_REPOSITORY${symbol_dollar}/com/taobao/configserver/config-common/2.0.5-SNAPSHOT/config-common-2.0.5-20150511.085211-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://${symbol_dollar}MAVEN_REPOSITORY${symbol_dollar}/com/taobao/configserver/config-common/2.0.5-SNAPSHOT/config-common-2.0.5-20150511.085211-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

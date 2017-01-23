@@ -1,0 +1,37 @@
+{
+  "AppName":"testApp",
+  "version":"1.0",
+  "rootPackage":"com.aliyun.java.api.framework",
+  "build":"1",
+  "router":[
+    {
+      "path": "/test/{name}",
+      "method": "get",
+      "package": "com.aliyun.java.demo",
+      "class": "App",
+      "function": "runPrint",
+      "params": [
+        {
+          "name": "name",
+          "type": "String",
+          "required":"true",
+          "default":""
+        }
+      ]
+    },{
+     "path": "/testPost",
+     "method": "post",
+     "package": "com.aliyun.java.demo",
+     "class": "App",
+     "function": "testPost",
+     "params": [
+       {
+         "name": "name",
+         "type": "String",
+         "required":"true",
+          "default":""
+       }
+     ]
+    }
+  ]
+}
